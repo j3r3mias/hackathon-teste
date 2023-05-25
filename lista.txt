@@ -1,0 +1,3 @@
+coputador
+teclado
+mouse
