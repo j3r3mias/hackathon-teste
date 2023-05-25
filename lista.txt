@@ -1,4 +1,6 @@
 computador
 teclado
+estabilizador
 mouse
+fonte
 gabinete
